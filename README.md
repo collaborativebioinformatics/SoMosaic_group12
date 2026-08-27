@@ -1,4 +1,5 @@
 # we_are_group_12 #SoMosaic
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/441721f8-cb1b-4b1b-97db-4c223b1c9bad" />
 
 # Exploring False Positives in Somatic Mosaic Structural Variant Calling
 
