@@ -53,3 +53,11 @@ Flowchart draft v3:
 
 Flowchart draft v2:
 <img width="1024" height="628" alt="image" src="https://github.com/user-attachments/assets/672d6a53-a3ff-4ed6-a76b-d59dcf5263d4" />
+
+## Methods
+[SoMosaicMethods_1.pdf](https://github.com/user-attachments/files/31518180/SoMosaicMethods_1.pdf)
+[SoMosaicMethods_2.pdf](https://github.com/user-attachments/files/31518172/SoMosaicMethods_2.pdf)
+[SoMosaicMethods_3.pdf](https://github.com/user-attachments/files/31518171/SoMosaicMethods_3.pdf)
+
+
+
