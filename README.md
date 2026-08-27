@@ -55,9 +55,9 @@ Flowchart draft v2:
 <img width="1024" height="628" alt="image" src="https://github.com/user-attachments/assets/672d6a53-a3ff-4ed6-a76b-d59dcf5263d4" />
 
 ## Methods
-<img width="6000" height="3375" alt="SoMosaicMethods_3" src="https://github.com/user-attachments/assets/0513e10c-60e0-49c7-9de5-7b73aae49c0b" />
-<img width="6000" height="3375" alt="SoMosaicMethods_2" src="https://github.com/user-attachments/assets/8ee26c18-6e8c-4972-82c5-0e577b4e3a12" />
 <img width="6000" height="3375" alt="SoMosaicMethods_1" src="https://github.com/user-attachments/assets/a9a95a8f-ee83-4306-9acc-b619b14a79ef" />
+<img width="6000" height="3375" alt="SoMosaicMethods_2" src="https://github.com/user-attachments/assets/8ee26c18-6e8c-4972-82c5-0e577b4e3a12" />
+<img width="6000" height="3375" alt="SoMosaicMethods_3" src="https://github.com/user-attachments/assets/0513e10c-60e0-49c7-9de5-7b73aae49c0b" />
 
 
 
