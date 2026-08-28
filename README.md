@@ -47,8 +47,8 @@ Files used include:
 A GRCh38 no-alt reference genome and its index are also required.
 
 ## Workflow
-Flowchart draft v3:
-<img width="1120" height="475" alt="Screenshot 2026-08-27 at 3 37 43 AM" src="https://github.com/user-attachments/assets/37ff7ba9-e4c2-41c0-8eb4-664d572c0e6d" />
+
+<img width="1116" height="517" alt="Screenshot 2026-08-28 at 1 40 42 PM" src="https://github.com/user-attachments/assets/b5c1a94b-b88e-4a20-bc1f-55635a9d2030" />
 
 ## Methods
 <img width="6000" height="3375" alt="SoMosaicMethods_1" src="https://github.com/user-attachments/assets/a9a95a8f-ee83-4306-9acc-b619b14a79ef" />
