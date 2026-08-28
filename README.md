@@ -93,23 +93,10 @@ The downstream classification framework constructs tabular dataframes from 23 hi
 | **Read Topology** | `SUPPORT`, `SUPPORT_SA`, `SUPPORT_LONG` | Split-alignment counts and soft-clipped long insertion tracking. |
 | **Allelic Ratios** | `VAF`, `dr`, `dv`, `depth` | Variant Allele Fraction and directional read distribution mapping. |
 | **Alignment Noise**| `NM`, `STDEV_POS`, `STDEV_LEN` | Mean mismatches and boundary start/length coordinate variances. |
-| **Coverage Ratios**| `cov_ratio` | Dynamic flanking vector: \(\frac{\text{cov\_center}}{\text{mean}(\text{cov\_up}, \text{cov\_down})}\) |
+| **Coverage Ratios**| `cov_ratio` | Dynamic flanking vector |
 | **Spatial Density**| `nb_n_1kb` to `nb_n_100kb` | Multi-scale structural crowding counts around the variant point. |
 | **Redundancy Tracking**| `nb_best_jaccard`, `nb_best_size_ratio` | Overlap intervals and nested event metrics to catch duplicates. |
 
----
-
-## Project Performance Summary
-
-Validation tests utilize independent chromosome holdout partitions to ensure model parameters generalize accurately across varying genomic topologies:
-
-| Evaluation Set | Target Cohort | Precision (Default) | Precision (RF Filtered) | Recall (Default) | Recall (RF Filtered) | F1-Score |
-| :--- | :--- | :---: | :---: | :---: | :---: | :---: |
-| **Pilot Set** | Chromosome 22 | xx.x% | **xx.x%** | xx.x% | **xx.x%** | **xx.x%** |
-| **Holdout Evaluation**| Chromosome 21 | xx.x% | **xx.x%** | xx.x% | **xx.x%** | **xx.x%** |
-| **Genome Scale** | Whole Genome (WGS)| xx.x% | **xx.x%** | xx.x% | **xx.x%** | **xx.x%** |
-
----
 
 ## Source Data & Repositories
 
