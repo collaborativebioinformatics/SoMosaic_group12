@@ -147,8 +147,6 @@ At inference `sv_rf_filter.py` uses the input VCF as its own reference by defaul
 
 ## Feature correlation
 
-![Feature correlation matrix for the whole WGS callset](docs/feature_correlation.png)
-
 <img width="1213" height="977" alt="feature_correlation" src="https://github.com/user-attachments/assets/83150a61-f8f6-49a7-81d3-41a7a8d7d2fb" />
 
 
