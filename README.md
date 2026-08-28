@@ -79,7 +79,7 @@ cd Sniffles2_mosaic_SV_false_positive_filter/
 
 # Run the localized extraction and training scripts detailed in the subfolder README
 
- **For advanced feature descriptions, training matrices, and Random Forest hyperparameter flags, please proceed to the [Classification Subdirectory README](./Sniffles2_mosaic_SV_false_positive_filter/README.md).**
+ **For advanced feature descriptions, training matrices, and Random Forest hyperparameter flags, please proceed to the [Classification Subdirectory README](./Sniffles2_mosaic_SV_false_positive_filter/README.md).**```
 
 ---
 
