@@ -1,4 +1,4 @@
-# Sniffles2 SV false-positive filter
+# Sniffles2 mosaic SV false-positive filter
 
 A random forest that scores structural-variant calls from [Sniffles2](https://github.com/fritzsedlazeck/Sniffles) and flags likely false positives, using only fields already present in the VCF — no realignment, no extra passes over the BAM.
 
